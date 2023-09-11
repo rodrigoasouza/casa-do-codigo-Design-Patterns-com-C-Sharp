@@ -1,8 +1,8 @@
-# Casa do Código - Design Patterns com C#
+# Casa do Código - [Design Patterns com C#](https://www.casadocodigo.com.br/products/livro-design-paterns-csharp)
 **Aprenda padrões de projeto com os games**
 **Rodrigo Gonçalves Santana**
 
-Código baseado nos estudos do livro Design Patterns com C# do Rodrigo Gonçalves Santana, os códigos aqui são de estudo, e não necessariamente representam os códigos escritos no livro.
+Código baseado nos estudos do livro [Design Patterns com C#](https://www.casadocodigo.com.br/products/livro-design-paterns-csharp) do Rodrigo Gonçalves Santana, os códigos aqui são de estudo, e não necessariamente representam os códigos escritos no livro.
 
 1. Design Patterns de Criação
     - Factory Method
